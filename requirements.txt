@@ -1,0 +1,7 @@
+selenium
+requests
+beautifulsoup4
+pandas
+schedule
+sqlite3-bro
+smtplib
