@@ -3,9 +3,9 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 # Configure your email credentials
-SENDER_EMAIL = "chaitrapaladugula@gmail.com"
-SENDER_PASSWORD = "olmf miao iduj brey"   # Use App Password for Gmail
-RECEIVER_EMAIL = "paladugulachaitra123@gmail.com"
+SENDER_EMAIL = "xxxxxxxxxxxx@gmail.com"
+SENDER_PASSWORD = "xxxx xxxx xxxx xxxx"   # Use App Password for Gmail
+RECEIVER_EMAIL = "xxxxxxxxxxxxxx@gmail.com"
 
 def send_email(subject, message):
     try:
